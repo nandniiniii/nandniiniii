@@ -54,14 +54,6 @@ AI-powered waste classification platform. Upload an image or describe any item â
 #### [Code Quest Arena](https://github.com/nandniiniii/CodeQuestArena)
 Java console quiz game with 56 questions, 7 categories, 3 difficulty levels, ANSI colors, and high score persistence.
 `Java` `OOP` `File I/O`
-
----
-
-### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=nandniiniii&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0f0d&title_color=39e58c&icon_color=39e58c&text_color=ffffff" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandniiniii&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0f0d&title_color=39e58c&text_color=ffffff" height="160"/>
-
 ---
 
 ### Streak
